@@ -1,0 +1,17 @@
+# Byte-compiled files
+__pycache__/
+*.py[cod]
+
+# Environment
+env/
+
+# Data & Submission
+data/
+submission/
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+
+# System
+.DS_Store
+
